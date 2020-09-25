@@ -14,7 +14,7 @@ Project URL:
 
 Hello, everyone.  Today, I will be conducting a review of a little known digital humanities project called "Border Odyssey".
 
-Border Odyssey, is a website (companion to a book by the same name) that depicts the Mexico/U.S. border and all the trials and tribulations that come with it.  The website has a few supporting features to go along with the main course, which is the interactive map.  First off, there is an alphabetized "resources" tab, that catalogs an array of useful and relevant articles/webpages pertinent to the topic at hand.  Another tab houses pictures of over 100 "braceros", who protest weekly in Cuidad Juarez, demanding retirement benefits they earned over half a century ago working for the US & Mexican governments.  Finally, the interactive map provides a closer look at all border cities, including events that have taken place there, laws that have been passed, etc.
+Border Odyssey is a website (companion to a book by the same name) that depicts the Mexico/U.S. border and all the trials and tribulations that come with it.  The website has a few supporting features to go along with the main course, which is the interactive map.  First off, there is an alphabetized "resources" tab, that catalogs an array of useful and relevant articles/webpages pertinent to the topic at hand.  Another tab houses pictures of over 100 "braceros", who protest weekly in Cuidad Juarez, demanding retirement benefits they earned over half a century ago working for the US & Mexican governments.  Finally, the interactive map provides a closer look at all border cities, including events that have taken place there, laws that have been passed, etc.
 
 ![Picture of Interactive Map](https://nickjerome2.github.io/images/interactivemap.PNG)
 
