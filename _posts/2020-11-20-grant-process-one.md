@@ -10,6 +10,6 @@ I have always been interested in "unsolved mysteries" such as this one, which is
 
 One project I found to be quite similar to mine is an "interactive map" created by the Australian Government at arcgis.com (snapshot of map picture below).  While this map is very useful and contains some good information, I found it to have many flaws.  The flaws I noticed while browsing the map created by the Australians are what I hope to improve on in my rendition of this project.  First of all, this map is an absolute nightmare to navigate.  When I pictured my project in my head, I foresaw a map that would have dots/lines across it that are interactable.  This way, you can easily see all the relevant locations at once, which I think is important.  This project forces you to scroll down continuously as the website arbitrarily chooses locations to explain to you.  It is not possible to click on the map yourself, only endlessly scroll, which I found very tedious.  The Australian map also tends to use jargon without fully explaining it.  When the website threw around words like "sea floor spreading" and "breakup zones", I had to tab out to find out what they meant.  In my project, I want to explain everything clearly and concisely to a wide audience, without potentially losing people on complicated jargon.
 
-
+![Picture of project similar to mine](https://nickjerome2.github.io/images/importantpicture7.PNG)
 
 In short, the project planning has been going quite well so far, and I hope to learn more so I can keep evolving and improving my plan going forward.
